@@ -1,5 +1,9 @@
 # Odyssey Lift-off Lab
 
+## Screen Shot
+
+<img src="./screen-shot.png"/>
+
 Welcome to the companion app of Odyssey Lift-off Lab! You can [find the lab's instructions on Odyssey](https://odyssey.apollographql.com/lift-off-lab), Apollo's learning platform.
 
 You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
